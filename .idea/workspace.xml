@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="41a744d2-5c94-4e45-856c-b18ec94f51d8" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="SCSS File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Rf8VEQwAx9LmecDraRiXofrXKf" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\R136A\WebstormProjects\Rugby Website\images" />
+      <recent name="C:\Users\Regulus\Downloads\templatemo_515_eatery\test" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\R136A\WebstormProjects\Rugby Website\templates" />
+      <recent name="C:\Users\R136A\WebstormProjects\Rugby Website" />
+      <recent name="C:\Users\R136A\WebstormProjects\Rugby Website\js" />
+      <recent name="C:\Users\R136A\WebstormProjects\Rugby Website\images" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="41a744d2-5c94-4e45-856c-b18ec94f51d8" name="Default Changelist" comment="" />
+      <created>1570046811645</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570046811645</updated>
+      <workItem from="1570046812829" duration="10361000" />
+      <workItem from="1572549119756" duration="73000" />
+      <workItem from="1572988638869" duration="10349000" />
+      <workItem from="1573096605103" duration="139000" />
+      <workItem from="1573613609824" duration="5426000" />
+      <workItem from="1573677702853" duration="16000" />
+      <workItem from="1575315834984" duration="14387000" />
+      <workItem from="1575392272668" duration="22041000" />
+      <workItem from="1575506713786" duration="13000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
